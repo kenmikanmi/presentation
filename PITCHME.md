@@ -1,6 +1,6 @@
 ---
 # Things That Make Your Life Great
----?image=https://www.polar.com/sites/default/files/sc/running-index-intro-bg-desktop.jpg&position=right&size=55% 100%
+---?image=https://www.polar.com/sites/default/files/sc/running-index-intro-bg-desktop.jpg&position=right&size=55% 55%
 ## Habits
 * Runnning
 * Cleaning
