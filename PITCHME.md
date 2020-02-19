@@ -20,18 +20,19 @@
 - Getting tired with a little exercise
 - Increasing interest toward my health
 
-> increased running participation "would probably lead to substantial improvements in population health and longevity." - **CNN Health**
 
----?image=https://natgeo.nikkeibp.co.jp/nng/article/news/14/3022/energy-news-garbage-gas_24636_big.jpg&position=right&size=40%
+@quote(increased running participation "would probably lead to substantial improvements in population health and longevity.")[CNN Health]
+
+---?image=https://natgeo.nikkeibp.co.jp/nng/article/news/14/3022/energy-news-garbage-gas_24636_big.jpg&position=right&size=30%
 # Cleaning
 - Cleaning a room every Saturday morning
 - 0.5hour-habit makes my holiday better
 
----?image=assets/castle.jpg&position=right&size=55%
+---?image=assets/castle.jpg&position=right&size=30%
 # Remote Working
 - Remote Work save us from **super crowded Keihin-Tohoku Line**
 - Image: "Working Office" at home
-
+---
 # Devices
 
 ---
