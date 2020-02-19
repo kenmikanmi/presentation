@@ -2,25 +2,19 @@
 # Things That Make Your Life Great
 ---
 ## Habits
-@ul
-- Runnning
-- Cleaning
-- Getting Up Early
-- Remote Working
-@ulend
+* Runnning
+* Cleaning
+* Getting Up Early
+* Remote Working
+
 ---
 ## Apps
-@ul
-- Room Light Controler
-- Sleep Meister
-@ulend
+* Room Light Controler
+* Sleep Meister
 ---
 ## Devices
-@ul
-- Noise Canceling Headphone/Earphone
-- HHKB: Happy Hacking Keyboard
-@ulend
-
+* Noise Canceling Headphone/Earphone
+* HHKB: Happy Hacking Keyboard
 ---
 ## Habits
 ### Running
